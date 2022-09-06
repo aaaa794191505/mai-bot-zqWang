@@ -1,0 +1,2 @@
+[2021-11-05 18:00:42] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:11435->127.0.0.1:10219: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-11-05 18:00:44] [WARNING]: 向WS服务器 127.0.0.1:10219 推送Event时出现错误: write tcp 127.0.0.1:11435->127.0.0.1:10219: wsasend: An existing connection was forcibly closed by the remote host. 

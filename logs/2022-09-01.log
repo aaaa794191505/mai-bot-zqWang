@@ -1,0 +1,4 @@
+[2022-09-01 00:00:11] [ERROR]: Protocol -> upload long message error: unexpected multimsg apply up response: 192 
+[2022-09-01 00:00:11] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-09-01 12:20:54] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2022-09-01 20:20:43] [ERROR]: Protocol -> unexpected disconnect: EOF 

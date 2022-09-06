@@ -1,0 +1,17 @@
+[2022-09-03 00:28:57] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 42.81.193.229:80: i/o timeout 
+[2022-09-03 00:29:00] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 183.47.98.103:8080: i/o timeout 
+[2022-09-03 00:41:38] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 42.81.184.180:80: i/o timeout 
+[2022-09-03 00:41:41] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 183.47.102.180:8080: i/o timeout 
+[2022-09-03 00:44:48] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 42.81.193.228:80: i/o timeout 
+[2022-09-03 00:44:51] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 183.47.102.211:8080: i/o timeout 
+[2022-09-03 00:44:55] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 42.81.172.45:80: i/o timeout 
+[2022-09-03 00:44:58] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 183.2.143.16:8080: i/o timeout 
+[2022-09-03 00:45:05] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 42.81.178.226:80: i/o timeout 
+[2022-09-03 00:45:08] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 183.47.99.30:8080: i/o timeout 
+[2022-09-03 01:00:40] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 42.81.184.123:80: i/o timeout 
+[2022-09-03 01:00:43] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 183.47.99.74:8080: i/o timeout 
+[2022-09-03 01:07:42] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 42.81.178.226:80: i/o timeout 
+[2022-09-03 01:07:45] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 183.47.99.74:8080: i/o timeout 
+[2022-09-03 01:07:48] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 42.81.172.30:443: i/o timeout 
+[2022-09-03 01:25:07] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 42.81.184.180:80: i/o timeout 
+[2022-09-03 01:31:24] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 42.81.184.180:80: i/o timeout 

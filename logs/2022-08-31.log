@@ -1,0 +1,6 @@
+[2022-08-31 12:01:20] [ERROR]: Protocol -> upload long message error: unexpected multimsg apply up response: 192 
+[2022-08-31 12:01:20] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-08-31 16:08:34] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2022-08-31 16:08:35] [ERROR]: Protocol -> upload long message error: unexpected multimsg apply up response: 192 
+[2022-08-31 16:08:35] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-08-31 23:28:02] [WARNING]: 群消息发送失败: 账号可能被风控. 
