@@ -154,16 +154,18 @@ async def _(bot: Bot, event: Event, state: T_State):
     # }]))
     res = random.randint(0, len(poke_list)*10 - 1)
     # res = 7
-    if res >= 10:
-        return
-    if "1909886526" == str(event.sender_id).strip() or "1069660505" == str(event.sender_id).strip():
+
+    if "794191505" == str(event.sender_id).strip() or "2138252153" == str(event.sender_id).strip() or "1909886526" \
+            == str(event.sender_id).strip():
+        res = 7
+    if "1069660505" == str(event.sender_id).strip():
         if res < 4:
             res = 7
-    if "1309900106" == str(event.sender_id).strip():
-        if res < 2:
-            res = 7
-    if "794191505" == str(event.sender_id).strip():
-        res = 7
+    # if "1309900106" == str(event.sender_id).strip():
+    #     if res < 2:
+    #         res = 7
+    if res >= 10:
+        return
     await poke.send(poke_list[res])
     # print(event.sender_id)
     # print("794191505" == str(event.sender_id).strip())

@@ -1,6 +1,0 @@
-[2022-08-22 17:00:25] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:2229->127.0.0.1:10219: wsarecv: An existing connection was forcibly closed by the remote host. 
-[2022-08-22 17:00:29] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:2229->127.0.0.1:10219: use of closed network connection 
-[2022-08-22 17:03:03] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:5298->127.0.0.1:10219: wsarecv: An existing connection was forcibly closed by the remote host. 
-[2022-08-22 17:03:04] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:5298->127.0.0.1:10219: wsasend: An existing connection was forcibly closed by the remote host. 
-[2022-08-22 17:04:52] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:5537->127.0.0.1:10219: wsarecv: An existing connection was forcibly closed by the remote host. 
-[2022-08-22 17:04:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:5537->127.0.0.1:10219: wsasend: An existing connection was forcibly closed by the remote host. 
