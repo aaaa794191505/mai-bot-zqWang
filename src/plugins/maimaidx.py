@@ -76,7 +76,7 @@ async def timer(event: Event, msg, sec: int, querytype: int):
         interval = current_time - float(last[index]['last_time'])
         # print("间隔为" + str(interval) + "秒")
         if "1909886526" == str(event.get_user_id()) or "794191505" == str(event.get_user_id()) \
-                or "2138252153" == str(event.get_user_id()):
+                or "2138252153" == str(event.get_user_id()) or "2693862500" == str(event.get_user_id()):
             # if "794191505" != str(event.get_user_id()):
             last[index]['last_time'] = current_time
             return True
@@ -969,7 +969,7 @@ async def _(bot: Bot, event: Event, state: T_State):
         # ]))
 
 
-get_rand_score = on_command("随机成绩")
+get_rand_score = on_command("随机成绩", aliases={'sjcj'})
 
 
 @get_rand_score.handle()
